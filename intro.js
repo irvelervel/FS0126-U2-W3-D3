@@ -31,3 +31,7 @@ console.log(x)
 // buono :)
 // esiste per ogni Promise anche un altro blocco, denominato "catch" -> se finite qui dentro, siete nel
 // finale brutto :(
+
+// Per materialmente lanciare un'operazione di HTTP REQUEST dal JS della nostra pagina, nel corso dei
+// decenni ci sono state diverse metodologie ma quella più moderna e ormai diffusa in tutti i browser
+// attivi è un metodo chiamato "fetch()"
